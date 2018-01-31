@@ -1,0 +1,62 @@
+{
+  "_from": "postcss-viewport-units",
+  "_id": "postcss-viewport-units@0.1.3",
+  "_inBundle": false,
+  "_integrity": "sha1-zETYlYUwCnTSkrll22HwdvOdDfY=",
+  "_location": "/postcss-viewport-units",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "postcss-viewport-units",
+    "name": "postcss-viewport-units",
+    "escapedName": "postcss-viewport-units",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/postcss-viewport-units/download/postcss-viewport-units-0.1.3.tgz",
+  "_shasum": "cc44d89585300a74d292b965db61f076f39d0df6",
+  "_spec": "postcss-viewport-units",
+  "_where": "H:\\code\\vue xiangmu\\new_music_css_test\\MyDemo",
+  "author": {
+    "name": "springuper@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/springuper/postcss-viewport-units/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "postcss": "^5.2.8"
+  },
+  "deprecated": false,
+  "description": "Automatically append `content` property for viewport-units-buggyfill",
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb-base": "^11.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "mocha": "^3.2.0"
+  },
+  "homepage": "https://github.com/springuper/postcss-viewport-units#readme",
+  "keywords": [
+    "postcss",
+    "viewport-units-buggyfill",
+    "content"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "postcss-viewport-units",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/springuper/postcss-viewport-units.git"
+  },
+  "scripts": {
+    "lint": "eslint index.js test/",
+    "test": "mocha test/"
+  },
+  "version": "0.1.3"
+}
